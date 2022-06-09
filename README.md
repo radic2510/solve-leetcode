@@ -1,6 +1,5 @@
-Leet Code 1일 1문제 시작
+Leet Code Solve 정리
 
-2021.05.25 ~
 
 ```java
 
